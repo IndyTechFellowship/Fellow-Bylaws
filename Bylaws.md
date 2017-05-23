@@ -373,5 +373,5 @@ Below is a list of summaries of amendments these Bylaws have undergone since the
 
 | Revision  | PR                                                               | Date | Proposed By | Summary                                             |
 | --------- | ---------------------------------------------------------------- | ---- | ------------| --------------------------------------------------- |
-| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pulls/1 | TBD  | EBoard      | Reclassify Finance Chair -> Operations Chair        |
+| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pulls/1) | TBD  | EBoard      | Reclassify Finance Chair -> Operations Chair        |
 | r1        | -                                                                | TBD  | -           | -                                                   |
