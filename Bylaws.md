@@ -371,7 +371,7 @@ Amendment ratification may be delayed until the next monthly meeting if more tha
 
 Below is a list of summaries of amendments these Bylaws have undergone since their inception.
 
-| Revision  | Ratification Date | Proposed By | Summary                                             |
-| --------- | ----------------- | ----------- | --------------------------------------------------- |
-| r2        | TBD               | EBoard      | Reclassify Finance Chair -> Operations Chair        |
-| r1        | TBD               | N/A         | N/A                                                 |
+| Revision  | PR | Date | Proposed By | Summary                                             |
+| --------- | -- | ---- | ------------| --------------------------------------------------- |
+| r2        | #1 | TBD  | EBoard      | Reclassify Finance Chair -> Operations Chair        |
+| r1        |    | TBD  | N/A         | N/A                                                 |
