@@ -1,6 +1,6 @@
 # Tech Fellow Bylaws
 
-_Revision: 2_
+_Revision: 1_
 
 _Ratification Date: TBD_
 
