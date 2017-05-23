@@ -1,6 +1,6 @@
 # Tech Fellow Bylaws
 
-_Revision: 1_
+_Revision: 2_
 
 _Ratification Date: TBD_
 
@@ -366,3 +366,12 @@ The amendment will go into effect immediately after ratification.
 ## Amendment Ratification Delay
 
 Amendment ratification may be delayed until the next monthly meeting if more than 15% of the voting population onboarded into the Tech Fellowship within the previous month.
+
+# Amendments
+
+Below is a list of summaries of amendments these Bylaws have undergone since their inception.
+
+| Revision  | Ratification Date | Proposed By | Summary                                             |
+| --------- | ----------------- | ----------- | --------------------------------------------------- |
+| r2        | TBD               | EBoard      | Reclassify Finance Chair -> Operations Chair        |
+| r1        | TBD               | N/A         | N/A                                                 |
