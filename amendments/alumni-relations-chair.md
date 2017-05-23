@@ -1,4 +1,4 @@
-# Amendment: $NAME
+# Amendment: Alumni Relations Chair
 
 ## Proposed by
 
