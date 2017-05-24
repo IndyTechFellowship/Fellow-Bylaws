@@ -1,20 +1,12 @@
 # Amendment: $NAME
 
-## Proposed by
+**Proposed by**: $NAME(S)
 
-$NAMES
+**At**: $DATE or $MONTHLY_MEETING_MONTH
 
-## Proposed at
+**Seconded by**: $NAME(S)
 
-$DATE
-
-## Seconded by
-
-$NAMES
-
-## Ratification Vote at
-
-$DATE
+**Ratification Vote At**: $DATE or $MONTHLY_MEETING_MONTH
 
 # Summary
 
