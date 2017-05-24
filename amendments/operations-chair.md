@@ -1,20 +1,12 @@
 # Amendment: Operations Chair
 
-## Proposed by
+**Proposed by**: Alex Correa, Chelsie Kasun, Ian Andrews, Kate Harrison, Mateusz Kosciuk, Mike Hockerman
 
-Alex Correa, Chelsie Kasun, Ian Andrews, Kate Harrison, Mateusz Kosciuk, Mike Hockerman
+**At**: June 2017 Monthly Meeting
 
-## Proposed at
+**Seconded by**: TBD
 
-June 2017 Monthly Meeting
-
-## Seconded by
-
-TBD
-
-## Ratification Vote at
-
-August 2017 Monthly Meeting
+**Ratification Vote At**: August 2017 Monthly Meeting
 
 # Summary
 
