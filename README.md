@@ -2,7 +2,7 @@
 
 _Revision: 1_
 
-_Ratification Date: TBD_
+_Ratification Date: 2017-06-06_
 
 # Purpose
 
