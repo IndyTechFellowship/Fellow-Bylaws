@@ -245,9 +245,9 @@ The Tech Fellowship is governed by TechPoint, a division of the Central Indiana 
 
 The Tech Fellowship will elect members of the Fellowship to positions of leadership. This collective group of seven leaders is referred to as the Executive Board, with each individual member holding a Chair in their respective domain. What follows is a list of the seven Executive Board Chairs who help TechPoint advance the mission of the Tech Fellowship.
 
-## Capstone Experience Chair
+## Alumni Relations Chair
 
-Responsible for assisting the TechPoint team in the planning and execution a comprehensive Fellowship wrap-up experience. This may include: sourcing fellow interest in the Capstone Experience, identifying learning opportunities, planning business leader sessions, and aiding the TechPoint team in the logistics of planning and executing the trip. The focus of this position is to construct a collaborative hands-on experience that strives to reinforce and nurture a strong peer network and ongoing industry education.
+Responsible for being the point-of-contact for Tech Fellows as they graduate from the program and assisting with the strategic planning of the comprehensive Fellowship capstone experience event. This may include: planning events for alumni and current Tech Fellows, maintaining a strong professional network between alumni and current Tech Fellows, identifying opportunities for the capstone experience, and planning Fellow itineraries during the capstone experience.
 
 ## Civic Engagement Chair
 
@@ -366,3 +366,12 @@ The amendment will go into effect immediately after ratification.
 ## Amendment Ratification Delay
 
 Amendment ratification may be delayed until the next monthly meeting if more than 15% of the voting population onboarded into the Tech Fellowship within the previous month.
+
+# Amendments
+
+Below is a list of summaries of amendments these Bylaws have undergone since their inception.
+
+| Revision  | PR                                                               | Date | Proposed By | Summary                                             |
+| --------- | ---------------------------------------------------------------- | ---- | ----------- | --------------------------------------------------- |
+| r2        | [#2](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/2) | TBD  | EBoard      | Reclassify Capstone Chair -> Alumni Relations Chair |
+| r1        | -                                                                | TBD  | -           | -                                                   |
