@@ -257,13 +257,13 @@ Responsible for planning and managing industry and non-industry specific volunte
 
 Responsible for sourcing and executing curriculum that incorporates the cross-section of Fellow interest and industry need, from both a hard skill and soft skill perspective. This Chair creates industry informed programming to equip Fellows with the skills needed to become leaders, and assists in the planning of events including: Professional networking meetings, case competitions, the Mark Hill Entrepreneurial seminar, pitch competitions, and others. The focus area of this role is to create opportunity for continued learning.
 
-## Finance Chair
-
-Responsible for tracking all Tech Fellow spending under the TechPoint team’s guidance. This Chair will work with the other Executive Board members to build out a sustainable budget and manage their spending and financial resources required for program execution. The focus of this role is to partner with the TechPoint team to insure appropriate spending and budget allocation.
-
 ## Marketing Chair
 
 Responsible for leadership of all marketing efforts, both online and offline, in conjunction with the TechPoint Staff. These efforts may include: sourcing content, offline marketing, and blog and social media. The Marketing Chair educates the Fellows on brand standards to maintain consistency in our messaging. The focus of this role is to act as a liaison between the Tech Fellowship and the TechPoint team for all all things content and social media.
+
+## Operations Chair
+
+Responsible for administrative functions within the Tech Fellowship and Executive Board. This chair will work with other Executive Board members and TechPoint to build sustainable budgets, manage financial instruments within the Fellowship such as a day-to-day spending debit card, identify and schedule physical meeting spaces when necessary, schedule meeting times when necessary, and ensure the accuracy of attendance records for mandatory events.
 
 ## Recruitment Chair
 
@@ -366,3 +366,12 @@ The amendment will go into effect immediately after ratification.
 ## Amendment Ratification Delay
 
 Amendment ratification may be delayed until the next monthly meeting if more than 15% of the voting population onboarded into the Tech Fellowship within the previous month.
+
+# Amendments
+
+Below is a list of summaries of amendments these Bylaws have undergone since their inception.
+
+| Revision  | PR                                                               | Date | Proposed By | Summary                                      |
+| --------- | ---------------------------------------------------------------- | ---- | ----------- | ---------------------------------------------|
+| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/1) | TBD  | EBoard      | Reclassify Finance Chair -> Operations Chair |
+| r1        | -                                                                | TBD  | -           | -                                            |
