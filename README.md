@@ -1,6 +1,6 @@
 # Tech Fellow Bylaws
 
-_Revision: 1_
+_Revision: 2_
 
 _Ratification Date: 2017-06-06_
 
@@ -371,7 +371,7 @@ Amendment ratification may be delayed until the next monthly meeting if more tha
 
 Below is a list of summaries of amendments these Bylaws have undergone since their inception.
 
-| Revision  | PR                                                               | Date | Proposed By | Summary                                      |
-| --------- | ---------------------------------------------------------------- | ---- | ----------- | ---------------------------------------------|
-| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/1) | TBD  | EBoard      | Reclassify Finance Chair -> Operations Chair |
-| r1        | -                                                                | TBD  | -           | -                                            |
+| Revision  | PR                                                               | Date     | Proposed By | Summary                                        |
+| --------- | ---------------------------------------------------------------- | -------- | ----------- | ---------------------------------------------|
+| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/1) | 2017-09  | EBoard      | Reclassify Finance Chair -> Operations Chair |
+| r1        | -                                                                | TBD      | -           | -                                            |
