@@ -1,6 +1,6 @@
 # Tech Fellow Bylaws
 
-_Revision: 1_
+_Revision: 2_
 
 _Ratification Date: 2017-06-06_
 
@@ -243,7 +243,7 @@ Should a Chair be impeached more than one (1) month before the pre-scheduled ann
 
 The Tech Fellowship is governed by TechPoint, a division of the Central Indiana Corporate Partnership. TechPoint has ultimate authority in all decisions related to the operation and governance of the Tech Fellowship, including superseding clauses in these Bylaws in extreme circumstances.
 
-The Tech Fellowship will elect members of the Fellowship to positions of leadership. This collective group of seven leaders is referred to as the Executive Board, with each individual member holding a Chair in their respective domain. What follows is a list of the seven Executive Board Chairs who help TechPoint advance the mission of the Tech Fellowship.
+The Tech Fellowship will elect members of the Fellowship to positions of leadership. This collective group of six leaders is referred to as the Executive Board, with each individual member holding a Chair in their respective domain. What follows is a list of the six Executive Board Chairs who help TechPoint advance the mission of the Tech Fellowship.
 
 ## Capstone Experience Chair
 
@@ -264,10 +264,6 @@ Responsible for leadership of all marketing efforts, both online and offline, in
 ## Operations Chair
 
 Responsible for administrative functions within the Tech Fellowship and Executive Board. This chair will work with other Executive Board members and TechPoint to build sustainable budgets, manage financial instruments within the Fellowship such as a day-to-day spending debit card, identify and schedule physical meeting spaces when necessary, schedule meeting times when necessary, and ensure the accuracy of attendance records for mandatory events.
-
-## Recruitment Chair
-
-Collaborate with the TechPoint Talent Team to successfully recruit the next generation of Tech Fellows. This Chair is responsible for organizing Fellow involvement in both on and off-campus recruitment events, coordinating opportunities with representatives from other TechPoint Talent Programs, including Xtern and Xtern Bootcamp, and assisting TechPoint with new Tech Fellow onboarding.
 
 ## Social Engagement Chair
 
@@ -371,7 +367,8 @@ Amendment ratification may be delayed until the next monthly meeting if more tha
 
 Below is a list of summaries of amendments these Bylaws have undergone since their inception.
 
-| Revision  | PR                                                               | Date | Proposed By | Summary                                      |
-| --------- | ---------------------------------------------------------------- | ---- | ----------- | ---------------------------------------------|
-| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/1) | TBD  | EBoard      | Reclassify Finance Chair -> Operations Chair |
-| r1        | -                                                                | TBD  | -           | -                                            |
+| Revision  | PR                                                               | Date | Proposed By    | Summary                                      |
+| --------- | ---------------------------------------------------------------- | ---- | -------------- | ---------------------------------------------|
+| r3        | [#3](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/3) | TBD  | Mike Hockerman | Remove Recruitment Chair                     |
+| r2        | [#1](https://github.com/IndyTechFellowship/Fellow-Bylaws/pull/1) | TBD  | EBoard         | Reclassify Finance Chair -> Operations Chair |
+| r1        | -                                                                | TBD  | -              | -                                            |
